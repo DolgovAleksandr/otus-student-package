@@ -1,0 +1,17 @@
+{
+    "name": "aleksandr-dolgov/otus-student-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "AleksandrDolgov\\OtusStudentPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "adolgov"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
