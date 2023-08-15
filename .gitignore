@@ -1,0 +1,59 @@
+vendor
+composer.lock
+
+# PhpStorm
+.idea/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# NetBeans
+nbproject/private/
+build/
+
+# Eclipse
+.metadata/
+bin/
+tmp/
+
+# PHPStorm project files
+*.iml
+.idea_modules/
+*.ipr
+*.iws
+
+# PHPStorm User Specific
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+
+# User-specific files
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.user
+*.sln.docstates
+
+# NetBeans
+/nbproject/private/
+/nbproject/Makefile-*.mk
+/nbproject/Package-*.bash
+/nbproject/*.properties
+/nbproject/cache/
+/nbproject/nbproject.xml
+/nbproject/build-impl.xml
+/nbproject/README.TXT
+/nbproject/*.zip
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+*.sublime-settings
+.sublime/
+
+# Eclipse
+.settings/
+.classpath
+.project
