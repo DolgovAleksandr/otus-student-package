@@ -1,6 +1,6 @@
 # Учебный пакет для реверса цифр
 
-Описание проекта будет здесь. Этот тестовый пакет будет иметь функцию реверса переданных ему цифр.
+Описание проекта будет здесь. Этот тестовый пакет будет иметь функцию реверса переданных ему значений
 
 ## Требования
 
@@ -18,4 +18,5 @@ $ composer require DolgovAleksandr/otus-student-package
 <?php
 $reverser = new IntReverser();
 echo $reverser->reverseInt(1234567); // 7654321
+echo $reverser->reverseString('abc'); // cba
 ``` 
